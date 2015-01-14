@@ -1,0 +1,16 @@
+/* 
+    Document   : style
+    Created on : Jan 12, 2015, 8:39:42 PM
+    Author     : RS
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+#logo{
+    margin-left: 550px;
+}
+
